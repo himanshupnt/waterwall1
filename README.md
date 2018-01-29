@@ -49,3 +49,6 @@ set range total = current range total
 set range idx = current range idx
 
 return [current range idxs, range total]
+
+##Big O
+O(n)
